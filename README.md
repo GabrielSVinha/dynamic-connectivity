@@ -6,7 +6,4 @@ See the problem [here](https://medium.com/omarelgabrys-blog/dynamic-connectivity
 
 |Language|Last Updated|
 |---|---|
-|[Java](java/)|2/05/2018|
-|[Python](python/)|TO-DO|
-|[Scala](scala/)|TO-DO|
-|[Golang](go/)|TO-DO|
+|[Java](java/)|02/13/2018|

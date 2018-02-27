@@ -1,13 +1,13 @@
-package com.coursera.gabriel.algorithms.quickfind;
+package com.coursera.dynamicconnectivity.algorithms.quickfind;
 
-import com.coursera.gabriel.algorithms.UnionFind;
+import com.coursera.dynamicconnectivity.algorithms.UnionFind;
 
-public class QuickFind extends UnionFind{
+public class QuickFind extends UnionFind {
 
     private Integer[] nodes;
 
     public QuickFind(Integer N) {
-        this.nodes = [];
+        this.nodes = new Integer[N];
         for(int i=0; i < N; i++){
             this.nodes[i] = i;
         }
